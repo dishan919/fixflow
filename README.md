@@ -53,3 +53,19 @@ fixflow/
 ├── Dockerfile
 ├── docker-compose.yml
 └── README.md
+## What I Learned
+
+While building FixFlow, I gained practical experience with:
+
+- Building a complete CRUD application using PHP and MySQL
+- Docker fundamentals such as images and containers
+- Creating a custom PHP/Apache image using a Dockerfile
+- Managing multiple containers using Docker Compose
+- Running PHP, MySQL, and phpMyAdmin in separate containers
+- Docker networking and service-to-service communication
+- Port mapping between the host machine and containers
+- Bind mounts for live source-code development
+- Docker volumes for persistent MySQL data
+- Using environment variables with `.env` files
+- Managing database initialization with Docker
+- Running a PHP/MySQL project without depending on XAMPP
